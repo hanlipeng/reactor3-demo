@@ -1,3 +1,5 @@
+package com.flux.test;
+
 import org.junit.Test;
 import reactor.core.publisher.Flux;
 import reactor.core.scheduler.Schedulers;

@@ -1,3 +1,5 @@
+package com.flux.test;
+
 import java.util.concurrent.TimeUnit;
 
 /**
